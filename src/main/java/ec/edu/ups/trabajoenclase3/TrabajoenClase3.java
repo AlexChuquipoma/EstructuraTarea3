@@ -19,7 +19,7 @@ public static void main(String[] args) {
         int opcion = 0;
 
         do {
-            System.out.println("------ MENU ------");
+            System.out.println("Menu");
             System.out.println("1. Agregar contacto");
             System.out.println("2. Buscar contacto");
             System.out.println("3. Eliminar contacto");
